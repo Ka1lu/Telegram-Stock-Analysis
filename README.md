@@ -73,4 +73,4 @@ Built using **Python, yFinance, Matplotlib, Telegram API, and Perplexity AI**.
 ---
 
 ## 📬 Contact  
-If you'd like to know more about this project, feel free to connect with me on [LinkedIn](www.linkedin.com/in/kailas-binukumar) or raise an issue here on GitHub.  
+If you'd like to know more about this project, feel free to connect with me on [LinkedIn](https://linkedin.com/in/kailas-binukumar) or raise an issue here on GitHub.  
